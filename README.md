@@ -1,4 +1,4 @@
-h1 KT 본사 구내식당 식단 페이지
+# KT 본사 구내식당 식단 페이지
 ```
 CSS = TailwindCSS
 DB = Prisma
