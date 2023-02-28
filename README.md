@@ -1,6 +1,6 @@
 # KT 본사 구내식당 식단 페이지
+- 본 페이지는 KT에서 운영하는게 아닌 개인이 운영하고 있는 페이지 입니다.
 ```
-본 페이지는 KT에서 운영하는게 아닌 개인이 운영하고 있는 페이지 입니다.
 CSS = TailwindCSS
 DB = Prisma
 FramWork = NextJS
